@@ -1,3 +1,5 @@
 lion
 elephant
 pet
+lolo
+koko
